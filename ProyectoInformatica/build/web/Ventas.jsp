@@ -66,7 +66,7 @@
                                             |
                                             <a href="Controlador?menu=Ventas&accion=Eliminar&codigoVenta=${venta.getCodigoVenta()}" 
                                                class="btn eliminar"
-                                               onclick="return confirm('¿Seguro que deseas eliminar este dispositivo?');">
+                                               onclick="return confirm('¿Seguro que deseas eliminar la venta?');">
                                                 Eliminar
                                             </a>
                                         </td>
