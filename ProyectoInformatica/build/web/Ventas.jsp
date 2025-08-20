@@ -16,10 +16,6 @@
     </head>
     <body>
 
-        <nav>
-            
-        </nav>
-
         <div class="fondo"></div>
 
         <div class="contenedor-principal">
@@ -35,7 +31,7 @@
                         <button type="submit" name="accion" value="Actualizar">Actualizar</button>
                     </div>
                     <div class="marca-interna">
-                        Essenza & Co.
+                        Dispositivos-Alan
                     </div>
 
                 </form>
